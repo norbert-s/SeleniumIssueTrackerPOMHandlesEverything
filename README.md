@@ -1,5 +1,5 @@
 # SeleniumIssueTrackerSecond
-Exploratory refactoring of Page object based on book :
+Experimental refactoring of Page object based on book :
 Selenium WebDriver 3
 Practical Guide
 Second Edition
