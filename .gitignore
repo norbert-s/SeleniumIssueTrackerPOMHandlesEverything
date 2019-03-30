@@ -1,0 +1,10 @@
+~$data.xlsx
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+
+*.log
