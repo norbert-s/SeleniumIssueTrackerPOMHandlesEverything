@@ -1,4 +1,4 @@
-# SeleniumIssueTrackerSecond
+# SeleniumIssueTrackerPOMHandlesEverything
 Experimental refactoring of Page object based on book :
 Selenium WebDriver 3
 Practical Guide
