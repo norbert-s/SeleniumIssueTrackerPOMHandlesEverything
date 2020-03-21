@@ -10,14 +10,14 @@ public class Prop {
     public String txtLocation = "";
 
     public Prop()  {
-        properties();
-        System.out.println("meghivtak");
+
     }
 
-    public void properties()  {
+    public static void properties()  {
+
         FileInputStream fis = null;
         try {
-            fis = new FileInputStream("D:\\Idea_Selenium\\Selenium_now\\Pageobjecthandleseverything\\src\\main\\java\\sourcefiles\\data.properties");
+            fis = new FileInputStream("D:\\Users\\nsusz\\source\\repos\\Idea\\Tests\\PageObjectHandlesEverything\\src\\main\\java\\sourcefiles\\data.properties");
         } catch (FileNotFoundException e) {
             e.printStackTrace();
         }
@@ -27,6 +27,7 @@ public class Prop {
         } catch (IOException e) {
             e.printStackTrace();
         }
+
     }
 
 

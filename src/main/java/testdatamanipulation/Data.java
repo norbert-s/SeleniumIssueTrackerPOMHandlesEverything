@@ -10,23 +10,10 @@ public class Data {
     public Data() throws IOException {
         getDataFromExcel();
     }
-    public void getDataFromExcel2() throws IOException {
-        String excelPath = "D:\\Idea_Selenium\\Selenium_now\\SeleniumIssueTrackerSecond\\src\\main\\java\\sourcefiles\\data.xlsx";
 
-        BufferedReader br = new BufferedReader(new FileReader(excelPath));
-        String[] stringArray ;
-
-        while (br.ready()) {
-            String check = br.readLine();
-            stringArray = check.split(";");
-            System.out.println(stringArray.length);
-//            map.put(stringArray[0],stringArray[1]);
-//            System.out.println(stringArray[0]+stringArray[1]);
-        }
-        br.close();
-    }
     public void getDataFromExcel() throws FileNotFoundException {
-        File f = new File("D:\\Idea_Selenium\\Selenium_now\\SeleniumIssueTrackerSecond\\src\\main\\java\\sourcefiles\\data.csv");
+
+        File f = new File("D:\\Users\\nsusz\\source\\repos\\Idea\\Tests\\PageObjectHandlesEverything\\src\\main\\java\\sourcefiles\\data.csv");
         Scanner scanner = new Scanner (f,"ISO-8859-2");
         String[] stringArray ;
 
@@ -34,7 +21,7 @@ public class Data {
             String check = scanner.nextLine();
             stringArray = check.split(";");
             map.put(stringArray[0],stringArray[1]);
-            System.out.println(stringArray[0]+stringArray[1]);
+//            System.out.println(stringArray[0]+stringArray[1]);
         }
         scanner.close();
 

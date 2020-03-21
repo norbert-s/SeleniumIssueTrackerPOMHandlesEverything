@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="41126" started-at="2019-03-30T21:52:24Z" finished-at="2019-03-30T21:53:06Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="41126" started-at="2019-03-30T21:52:24Z" finished-at="2019-03-30T21:53:06Z">
+      <class name="SubmitIssueTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:SubmitIssueTest@180bc464]" name="setup" is-config="true" duration-ms="19" started-at="2019-03-30T21:52:24Z" finished-at="2019-03-30T21:52:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="setupMethod()[pri:0, instance:SubmitIssueTest@180bc464]" name="setupMethod" is-config="true" duration-ms="7097" started-at="2019-03-30T21:52:25Z" finished-at="2019-03-30T21:52:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupMethod -->
+        <test-method status="PASS" signature="createdBy255Chars_C21()[pri:0, instance:SubmitIssueTest@180bc464]" name="createdBy255Chars_C21" duration-ms="1658" started-at="2019-03-30T21:52:32Z" finished-at="2019-03-30T21:52:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createdBy255Chars_C21 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:SubmitIssueTest@180bc464]" name="tearDown" is-config="true" duration-ms="683" started-at="2019-03-30T21:52:33Z" finished-at="2019-03-30T21:52:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setupMethod()[pri:0, instance:SubmitIssueTest@180bc464]" name="setupMethod" is-config="true" duration-ms="5218" started-at="2019-03-30T21:52:34Z" finished-at="2019-03-30T21:52:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupMethod -->
+        <test-method status="PASS" signature="createdBy256Chars_C20()[pri:0, instance:SubmitIssueTest@180bc464]" name="createdBy256Chars_C20" duration-ms="1639" started-at="2019-03-30T21:52:39Z" finished-at="2019-03-30T21:52:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createdBy256Chars_C20 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:SubmitIssueTest@180bc464]" name="tearDown" is-config="true" duration-ms="705" started-at="2019-03-30T21:52:41Z" finished-at="2019-03-30T21:52:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setupMethod()[pri:0, instance:SubmitIssueTest@180bc464]" name="setupMethod" is-config="true" duration-ms="6062" started-at="2019-03-30T21:52:42Z" finished-at="2019-03-30T21:52:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupMethod -->
+        <test-method status="PASS" signature="text3000Chars_C17()[pri:0, instance:SubmitIssueTest@180bc464]" name="text3000Chars_C17" duration-ms="9613" started-at="2019-03-30T21:52:48Z" finished-at="2019-03-30T21:52:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- text3000Chars_C17 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:SubmitIssueTest@180bc464]" name="tearDown" is-config="true" duration-ms="666" started-at="2019-03-30T21:52:57Z" finished-at="2019-03-30T21:52:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setupMethod()[pri:0, instance:SubmitIssueTest@180bc464]" name="setupMethod" is-config="true" duration-ms="5294" started-at="2019-03-30T21:52:58Z" finished-at="2019-03-30T21:53:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupMethod -->
+        <test-method status="PASS" signature="title255Chars_C18()[pri:0, instance:SubmitIssueTest@180bc464]" name="title255Chars_C18" duration-ms="1790" started-at="2019-03-30T21:53:03Z" finished-at="2019-03-30T21:53:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- title255Chars_C18 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:SubmitIssueTest@180bc464]" name="tearDown" is-config="true" duration-ms="682" started-at="2019-03-30T21:53:05Z" finished-at="2019-03-30T21:53:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="tearDownAll()[pri:0, instance:SubmitIssueTest@180bc464]" name="tearDownAll" is-config="true" duration-ms="0" started-at="2019-03-30T21:53:06Z" finished-at="2019-03-30T21:53:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownAll -->
+      </class> <!-- SubmitIssueTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

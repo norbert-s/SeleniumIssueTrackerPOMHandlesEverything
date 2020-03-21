@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="18" passed="18">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default Suite" duration-ms="149019" started-at="2020-03-21T22:06:51Z" finished-at="2020-03-21T22:09:20Z">
+    <groups>
+    </groups>
+    <test name="PageObjectHandlesEverything" duration-ms="149019" started-at="2020-03-21T22:06:51Z" finished-at="2020-03-21T22:09:20Z">
+      <class name="SubmitIssueTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:SubmitIssueTest@c818063]" name="setup" is-config="true" duration-ms="13" started-at="2020-03-21T22:06:51Z" finished-at="2020-03-21T22:06:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="setupMethod()[pri:0, instance:SubmitIssueTest@c818063]" name="setupMethod" is-config="true" duration-ms="6830" started-at="2020-03-21T22:06:51Z" finished-at="2020-03-21T22:06:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupMethod -->
+        <test-method status="PASS" signature="FourEntered_C12()[pri:0, instance:SubmitIssueTest@c818063]" name="FourEntered_C12" duration-ms="500" started-at="2020-03-21T22:06:58Z" finished-at="2020-03-21T22:06:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FourEntered_C12 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:SubmitIssueTest@c818063]" name="tearDown" is-config="true" duration-ms="592" started-at="2020-03-21T22:06:58Z" finished-at="2020-03-21T22:06:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setupMethod()[pri:0, instance:SubmitIssueTest@c818063]" name="setupMethod" is-config="true" duration-ms="5663" started-at="2020-03-21T22:06:59Z" finished-at="2020-03-21T22:07:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupMethod -->
+        <test-method status="PASS" signature="allFiveEntered_C14()[pri:0, instance:SubmitIssueTest@c818063]" name="allFiveEntered_C14" duration-ms="952" started-at="2020-03-21T22:07:04Z" finished-at="2020-03-21T22:07:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- allFiveEntered_C14 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:SubmitIssueTest@c818063]" name="tearDown" is-config="true" duration-ms="600" started-at="2020-03-21T22:07:05Z" finished-at="2020-03-21T22:07:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setupMethod()[pri:0, instance:SubmitIssueTest@c818063]" name="setupMethod" is-config="true" duration-ms="5640" started-at="2020-03-21T22:07:06Z" finished-at="2020-03-21T22:07:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupMethod -->
+        <test-method status="PASS" signature="createdBy255Chars_C21()[pri:0, instance:SubmitIssueTest@c818063]" name="createdBy255Chars_C21" duration-ms="1435" started-at="2020-03-21T22:07:12Z" finished-at="2020-03-21T22:07:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createdBy255Chars_C21 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:SubmitIssueTest@c818063]" name="tearDown" is-config="true" duration-ms="642" started-at="2020-03-21T22:07:13Z" finished-at="2020-03-21T22:07:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setupMethod()[pri:0, instance:SubmitIssueTest@c818063]" name="setupMethod" is-config="true" duration-ms="5578" started-at="2020-03-21T22:07:14Z" finished-at="2020-03-21T22:07:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupMethod -->
+        <test-method status="PASS" signature="createdBy256Chars_C20()[pri:0, instance:SubmitIssueTest@c818063]" name="createdBy256Chars_C20" duration-ms="1394" started-at="2020-03-21T22:07:19Z" finished-at="2020-03-21T22:07:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createdBy256Chars_C20 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:SubmitIssueTest@c818063]" name="tearDown" is-config="true" duration-ms="597" started-at="2020-03-21T22:07:21Z" finished-at="2020-03-21T22:07:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setupMethod()[pri:0, instance:SubmitIssueTest@c818063]" name="setupMethod" is-config="true" duration-ms="6099" started-at="2020-03-21T22:07:21Z" finished-at="2020-03-21T22:07:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupMethod -->
+        <test-method status="PASS" signature="firstIsTwoChars_C9()[pri:0, instance:SubmitIssueTest@c818063]" name="firstIsTwoChars_C9" duration-ms="829" started-at="2020-03-21T22:07:27Z" finished-at="2020-03-21T22:07:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstIsTwoChars_C9 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:SubmitIssueTest@c818063]" name="tearDown" is-config="true" duration-ms="595" started-at="2020-03-21T22:07:28Z" finished-at="2020-03-21T22:07:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setupMethod()[pri:0, instance:SubmitIssueTest@c818063]" name="setupMethod" is-config="true" duration-ms="5590" started-at="2020-03-21T22:07:29Z" finished-at="2020-03-21T22:07:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupMethod -->
+        <test-method status="PASS" signature="firstTwoButNotThird_C7()[pri:0, instance:SubmitIssueTest@c818063]" name="firstTwoButNotThird_C7" duration-ms="817" started-at="2020-03-21T22:07:34Z" finished-at="2020-03-21T22:07:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstTwoButNotThird_C7 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:SubmitIssueTest@c818063]" name="tearDown" is-config="true" duration-ms="1521" started-at="2020-03-21T22:07:35Z" finished-at="2020-03-21T22:07:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setupMethod()[pri:0, instance:SubmitIssueTest@c818063]" name="setupMethod" is-config="true" duration-ms="5583" started-at="2020-03-21T22:07:37Z" finished-at="2020-03-21T22:07:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupMethod -->
+        <test-method status="PASS" signature="mandatoryFieldsAreEnteredExceptTitle_C4()[pri:0, instance:SubmitIssueTest@c818063]" name="mandatoryFieldsAreEnteredExceptTitle_C4" duration-ms="779" started-at="2020-03-21T22:07:42Z" finished-at="2020-03-21T22:07:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mandatoryFieldsAreEnteredExceptTitle_C4 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:SubmitIssueTest@c818063]" name="tearDown" is-config="true" duration-ms="594" started-at="2020-03-21T22:07:43Z" finished-at="2020-03-21T22:07:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setupMethod()[pri:0, instance:SubmitIssueTest@c818063]" name="setupMethod" is-config="true" duration-ms="5987" started-at="2020-03-21T22:07:44Z" finished-at="2020-03-21T22:07:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupMethod -->
+        <test-method status="PASS" signature="noTextisEntered_C6()[pri:0, instance:SubmitIssueTest@c818063]" name="noTextisEntered_C6" duration-ms="790" started-at="2020-03-21T22:07:50Z" finished-at="2020-03-21T22:07:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- noTextisEntered_C6 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:SubmitIssueTest@c818063]" name="tearDown" is-config="true" duration-ms="613" started-at="2020-03-21T22:07:51Z" finished-at="2020-03-21T22:07:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setupMethod()[pri:0, instance:SubmitIssueTest@c818063]" name="setupMethod" is-config="true" duration-ms="6068" started-at="2020-03-21T22:07:51Z" finished-at="2020-03-21T22:07:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupMethod -->
+        <test-method status="PASS" signature="nonValidTitle_C2()[pri:0, instance:SubmitIssueTest@c818063]" name="nonValidTitle_C2" duration-ms="729" started-at="2020-03-21T22:07:57Z" finished-at="2020-03-21T22:07:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nonValidTitle_C2 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:SubmitIssueTest@c818063]" name="tearDown" is-config="true" duration-ms="602" started-at="2020-03-21T22:07:58Z" finished-at="2020-03-21T22:07:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setupMethod()[pri:0, instance:SubmitIssueTest@c818063]" name="setupMethod" is-config="true" duration-ms="5678" started-at="2020-03-21T22:07:59Z" finished-at="2020-03-21T22:08:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupMethod -->
+        <test-method status="PASS" signature="nothingIsEnteredToBested_C3()[pri:0, instance:SubmitIssueTest@c818063]" name="nothingIsEnteredToBested_C3" duration-ms="674" started-at="2020-03-21T22:08:04Z" finished-at="2020-03-21T22:08:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nothingIsEnteredToBested_C3 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:SubmitIssueTest@c818063]" name="tearDown" is-config="true" duration-ms="596" started-at="2020-03-21T22:08:05Z" finished-at="2020-03-21T22:08:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setupMethod()[pri:0, instance:SubmitIssueTest@c818063]" name="setupMethod" is-config="true" duration-ms="5522" started-at="2020-03-21T22:08:05Z" finished-at="2020-03-21T22:08:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupMethod -->
+        <test-method status="PASS" signature="secondIsTwoChars_C10()[pri:0, instance:SubmitIssueTest@c818063]" name="secondIsTwoChars_C10" duration-ms="882" started-at="2020-03-21T22:08:11Z" finished-at="2020-03-21T22:08:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- secondIsTwoChars_C10 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:SubmitIssueTest@c818063]" name="tearDown" is-config="true" duration-ms="608" started-at="2020-03-21T22:08:12Z" finished-at="2020-03-21T22:08:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setupMethod()[pri:0, instance:SubmitIssueTest@c818063]" name="setupMethod" is-config="true" duration-ms="6172" started-at="2020-03-21T22:08:12Z" finished-at="2020-03-21T22:08:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupMethod -->
+        <test-method status="PASS" signature="text3000Chars_C17()[pri:0, instance:SubmitIssueTest@c818063]" name="text3000Chars_C17" duration-ms="7947" started-at="2020-03-21T22:08:19Z" finished-at="2020-03-21T22:08:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- text3000Chars_C17 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:SubmitIssueTest@c818063]" name="tearDown" is-config="true" duration-ms="618" started-at="2020-03-21T22:08:27Z" finished-at="2020-03-21T22:08:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setupMethod()[pri:0, instance:SubmitIssueTest@c818063]" name="setupMethod" is-config="true" duration-ms="6262" started-at="2020-03-21T22:08:27Z" finished-at="2020-03-21T22:08:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupMethod -->
+        <test-method status="PASS" signature="text3001Chars_C16()[pri:0, instance:SubmitIssueTest@c818063]" name="text3001Chars_C16" duration-ms="8112" started-at="2020-03-21T22:08:33Z" finished-at="2020-03-21T22:08:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- text3001Chars_C16 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:SubmitIssueTest@c818063]" name="tearDown" is-config="true" duration-ms="1101" started-at="2020-03-21T22:08:42Z" finished-at="2020-03-21T22:08:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setupMethod()[pri:0, instance:SubmitIssueTest@c818063]" name="setupMethod" is-config="true" duration-ms="5777" started-at="2020-03-21T22:08:43Z" finished-at="2020-03-21T22:08:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupMethod -->
+        <test-method status="PASS" signature="thirdIsTwoChars_C11()[pri:0, instance:SubmitIssueTest@c818063]" name="thirdIsTwoChars_C11" duration-ms="806" started-at="2020-03-21T22:08:48Z" finished-at="2020-03-21T22:08:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- thirdIsTwoChars_C11 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:SubmitIssueTest@c818063]" name="tearDown" is-config="true" duration-ms="642" started-at="2020-03-21T22:08:49Z" finished-at="2020-03-21T22:08:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setupMethod()[pri:0, instance:SubmitIssueTest@c818063]" name="setupMethod" is-config="true" duration-ms="5681" started-at="2020-03-21T22:08:50Z" finished-at="2020-03-21T22:08:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupMethod -->
+        <test-method status="PASS" signature="title255Chars_C18()[pri:0, instance:SubmitIssueTest@c818063]" name="title255Chars_C18" duration-ms="1582" started-at="2020-03-21T22:08:56Z" finished-at="2020-03-21T22:08:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- title255Chars_C18 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:SubmitIssueTest@c818063]" name="tearDown" is-config="true" duration-ms="593" started-at="2020-03-21T22:08:57Z" finished-at="2020-03-21T22:08:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setupMethod()[pri:0, instance:SubmitIssueTest@c818063]" name="setupMethod" is-config="true" duration-ms="6033" started-at="2020-03-21T22:08:58Z" finished-at="2020-03-21T22:09:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupMethod -->
+        <test-method status="PASS" signature="title256Chars_C15()[pri:0, instance:SubmitIssueTest@c818063]" name="title256Chars_C15" duration-ms="1578" started-at="2020-03-21T22:09:04Z" finished-at="2020-03-21T22:09:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- title256Chars_C15 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:SubmitIssueTest@c818063]" name="tearDown" is-config="true" duration-ms="597" started-at="2020-03-21T22:09:05Z" finished-at="2020-03-21T22:09:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setupMethod()[pri:0, instance:SubmitIssueTest@c818063]" name="setupMethod" is-config="true" duration-ms="5496" started-at="2020-03-21T22:09:06Z" finished-at="2020-03-21T22:09:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupMethod -->
+        <test-method status="PASS" signature="titleIsProvidedButNoTextField_C5()[pri:0, instance:SubmitIssueTest@c818063]" name="titleIsProvidedButNoTextField_C5" duration-ms="726" started-at="2020-03-21T22:09:11Z" finished-at="2020-03-21T22:09:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titleIsProvidedButNoTextField_C5 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:SubmitIssueTest@c818063]" name="tearDown" is-config="true" duration-ms="595" started-at="2020-03-21T22:09:12Z" finished-at="2020-03-21T22:09:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setupMethod()[pri:0, instance:SubmitIssueTest@c818063]" name="setupMethod" is-config="true" duration-ms="5641" started-at="2020-03-21T22:09:13Z" finished-at="2020-03-21T22:09:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupMethod -->
+        <test-method status="PASS" signature="validValuesForTheAPI_C1()[pri:0, instance:SubmitIssueTest@c818063]" name="validValuesForTheAPI_C1" duration-ms="844" started-at="2020-03-21T22:09:18Z" finished-at="2020-03-21T22:09:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validValuesForTheAPI_C1 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:SubmitIssueTest@c818063]" name="tearDown" is-config="true" duration-ms="600" started-at="2020-03-21T22:09:19Z" finished-at="2020-03-21T22:09:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="tearDownAll()[pri:0, instance:SubmitIssueTest@c818063]" name="tearDownAll" is-config="true" duration-ms="0" started-at="2020-03-21T22:09:20Z" finished-at="2020-03-21T22:09:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownAll -->
+      </class> <!-- SubmitIssueTest -->
+    </test> <!-- PageObjectHandlesEverything -->
+  </suite> <!-- Default Suite -->
+</testng-results>

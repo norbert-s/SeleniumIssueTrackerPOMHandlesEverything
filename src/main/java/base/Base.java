@@ -17,19 +17,19 @@ public class Base {
 //    Properties prop = new Properties();
     String driverPath;
     String url;
-    Prop p;
+
 
 
     public WebDriverWait  wait;
 
     public Base() throws IOException {
-
+        Prop.properties();
     }
 
     public void ChromeInit() throws IOException {
-        p=new Prop();
-        driverPath = p.prop.getProperty("chrome");
-        url = p.prop.getProperty("url");
+
+        driverPath = Prop.prop.getProperty("chrome");
+        url = Prop.prop.getProperty("url");
 
         System.setProperty("webdriver.chrome.driver",driverPath);
         ChromeOptions options = new ChromeOptions();
